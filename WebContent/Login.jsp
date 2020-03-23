@@ -33,7 +33,7 @@ function dateValidation(){
 
 <body>
 You are now in Login page<br>
-Usinng Get Method<br>
+Using Get Method<br>
 <form action="<%= request.getContextPath()%>/Controller" method="get" >
 
 Name : <input type="text" name="name" required/><br>
